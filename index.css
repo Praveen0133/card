@@ -1,0 +1,29 @@
+.card{
+    display: flex;
+    justify-content: center;
+    gap:1%
+}
+
+.card1{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    width: 20%;
+    height: 0%;
+    
+    
+}
+img{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin: 0;
+    color: rgb(169, 183, 210);
+}
+.card1 .cardfoot img{
+    width: 40%;
+    display: flex;
+    margin: auto;
+}
